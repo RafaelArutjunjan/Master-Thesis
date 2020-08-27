@@ -12,6 +12,10 @@ Corrections
 -----------
 In addition to the original version that was handed in officially, I will retain the right to also publish updated revisions of my thesis, where typos and formatting errors are incrementally corrected as I find them. In general, I recommend using the newest version.
 
+Changes so far:
+* Deleted erroneous duplication of sections 4.6 and 4.7
+* Removed section numbering in Appendix
+
 
 ## Numerical Implementation
 Within the next couple of weeks, a full implementation of the methods which were developed and discussed in my thesis will be published as a package for the [Julia programming language](https://github.com/JuliaLang/julia). Watch this space.
