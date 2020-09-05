@@ -18,8 +18,7 @@ Changes so far:
 
 
 ## Numerical Implementation
-Within the next couple of weeks, a full implementation of the methods which were developed and discussed in my thesis will be published as a package for the [Julia programming language](https://github.com/JuliaLang/julia). Watch this space.
-
+An implementation of the methods which were developed and discussed in my thesis have been published as the [InformationGeometry.jl](https://github.com/RafaelArutjunjan/InformationGeometry.jl) package for the [Julia](https://github.com/JuliaLang/julia) programming language. A detailed guide explaining its use will follow soon.
 
 
 Contact
