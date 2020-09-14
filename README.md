@@ -6,6 +6,7 @@ Summary
 -------
 In essence, my thesis discusses ways to generalise simultaneous confidence regions to so-called parameter manifolds in the context of information geometry. In addition, given a dataset and candidate model for its description, an efficient method for determining exact confidence regions irrespective of the chosen parametrisation of a model is developed.
 
+A handout of the slides of a talk aimed at introducing and defending the results of said thesis is also provided.
 
 
 Corrections
@@ -35,6 +36,7 @@ Citation
   school       = {Friedrich-Alexander University Erlangen-Nürnberg},
   year         = {2020},
   month        = {August},
+	type				 = {Master's thesis},
   url          = {https://github.com/RafaelArutjunjan/Master-Thesis},
 }
 ```
