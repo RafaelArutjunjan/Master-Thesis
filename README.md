@@ -36,7 +36,7 @@ Citation
   school       = {Friedrich-Alexander University Erlangen-Nürnberg},
   year         = {2020},
   month        = {August},
-	type				 = {Master's thesis},
+  type         = {Master's thesis},
   url          = {https://github.com/RafaelArutjunjan/Master-Thesis},
 }
 ```
