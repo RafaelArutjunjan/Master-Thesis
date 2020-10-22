@@ -13,30 +13,13 @@ Corrections
 -----------
 In addition to the original version that was handed in officially, I will retain the right to also publish updated revisions of my thesis, where typos and formatting errors are incrementally corrected as I find them. In general, I recommend using the newest version.
 
-Changes so far:
-* Deleted erroneous duplication of sections 4.6 and 4.7
-* Removed section numbering in Appendix
+A reasonably comprehensive list of all corrections can be found in the [Corrections.md](https://github.com/RafaelArutjunjan/Master-Thesis/blob/master/Corrections.md) file.
 
 
 ## Numerical Implementation
-An implementation of the methods which were developed and discussed in my thesis have been published as the [InformationGeometry.jl](https://github.com/RafaelArutjunjan/InformationGeometry.jl) package for the [Julia](https://github.com/JuliaLang/julia) programming language. A detailed guide explaining its use will follow soon.
+An implementation of the methods which were developed and discussed in my thesis have been published as the [InformationGeometry.jl](https://github.com/RafaelArutjunjan/InformationGeometry.jl) package for the [Julia](https://github.com/JuliaLang/julia) programming language. A detailed guide explaining its use can be found in the associated [documentation](https://RafaelArutjunjan.github.io/InformationGeometry.jl/dev).
 
 
 Contact
 -------
 If you should have any questions regarding the provided materials or contents of the thesis, feel free to [message me at arutjunjan.r@gmail.com](mailto:arutjunjan.r@gmail.com?subject=[GitHub]%20Master-Thesis).
-
-
-Citation
---------
-```
-@mastersthesis{GeometricParameterInference,
-  author       = {Rafael Arutjunjan},
-  title        = {On the Geometric Foundation of Parameter Inference},
-  school       = {Friedrich-Alexander University Erlangen-Nürnberg},
-  year         = {2020},
-  month        = {August},
-  type         = {Master's thesis},
-  url          = {https://github.com/RafaelArutjunjan/Master-Thesis},
-}
-```
